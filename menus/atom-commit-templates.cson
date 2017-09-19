@@ -2,11 +2,11 @@
   {
     'label': 'Packages'
     'submenu': [
-      'label': 'Atom Jira Commits'
+      'label': 'Atom Commit Templates'
       'submenu': [
         {
           'label': 'Set Commit Template'
-          'command': 'atom-jira-commits:Set Commit Template'
+          'command': 'atom-commit-templates:Set Commit Template'
         }
       ]
     ]
