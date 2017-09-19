@@ -1,0 +1,14 @@
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'Atom Jira Commits'
+      'submenu': [
+        {
+          'label': 'Set Commit Template'
+          'command': 'atom-jira-commits:Set Commit Template'
+        }
+      ]
+    ]
+  }
+]
