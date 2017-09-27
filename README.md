@@ -22,6 +22,12 @@ git config --global commit.template ~/.gitcommit
 - ```cmd-shift-alt-t``` on OSX
 - ```Atom Commit Templates: Set Commit Template``` from the command palette
 
+#### Input Dialog
+![atom-commit-template](https://user-images.githubusercontent.com/12021575/30941905-a8f31262-a3df-11e7-86e5-772338acb340.jpg)
+
+#### Commit Message Automatically Populated
+![commit-message](https://user-images.githubusercontent.com/12021575/30941982-10b29774-a3e0-11e7-89eb-e0f36498a4f7.png)
+
 ## Goes well with
 
 - [Git Plus](https://atom.io/packages/git-plus) - Git commands without the terminal!
