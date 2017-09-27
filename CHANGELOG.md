@@ -1,5 +1,16 @@
 # Change Log
 
+## [v0.2.1](https://github.com/concon121/atom-commit-templates/tree/v0.2.1) (2017-09-27)
+[Full Changelog](https://github.com/concon121/atom-commit-templates/compare/v0.2.0...v0.2.1)
+
+**Implemented enhancements:**
+
+- Improve README [\#6](https://github.com/concon121/atom-commit-templates/issues/6)
+
+**Merged pull requests:**
+
+- Add a Codacy badge to README.md [\#5](https://github.com/concon121/atom-commit-templates/pull/5) ([codacy-badger](https://github.com/codacy-badger))
+
 ## [v0.2.0](https://github.com/concon121/atom-commit-templates/tree/v0.2.0) (2017-09-27)
 [Full Changelog](https://github.com/concon121/atom-commit-templates/compare/v0.1.4...v0.2.0)
 
