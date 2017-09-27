@@ -1,4 +1,7 @@
 # atom-commit-templates
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d9426cb0602646f5a12dccb26a044c4e)](https://www.codacy.com/app/connor-bray/atom-commit-templates?utm_source=github.com&utm_medium=referral&utm_content=concon121/atom-commit-templates&utm_campaign=badger)
+
 Easily set custom commit templates from the Atom UI
 
 ## Setting a Git Commit Template
