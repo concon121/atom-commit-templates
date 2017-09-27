@@ -1,6 +1,10 @@
 # atom-commit-templates
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d9426cb0602646f5a12dccb26a044c4e)](https://www.codacy.com/app/connor-bray/atom-commit-templates?utm_source=github.com&utm_medium=referral&utm_content=concon121/atom-commit-templates&utm_campaign=badger)
+[![Build Status](https://api.travis-ci.org/concon121/atom-commit-templates.png)](https://api.travis-ci.org/concon121/atom-commit-templates)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d9426cb0602646f5a12dccb26a044c4e)](https://www.codacy.com/app/connor-bray/atom-commit-templates?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=concon121/atom-commit-templates&amp;utm_campaign=Badge_Grade)
+[![Code Climate](https://codeclimate.com/github/concon121/atom-commit-templates/badges/gpa.svg)](https://codeclimate.com/github/concon121/atom-commit-templates)
+[![Issue Count](https://codeclimate.com/github/concon121/atom-commit-templates/badges/issue_count.svg)](https://codeclimate.com/github/concon121/atom-commit-templates)
+[![Downloads](https://img.shields.io/apm/dm/atom-commit-templates.svg?maxAge=2592000)](https://atom.io/packages/atom-commit-templates)
 
 Easily set custom commit templates from the Atom UI
 
