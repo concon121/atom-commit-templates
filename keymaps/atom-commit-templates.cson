@@ -1,0 +1,5 @@
+'.platform-darwin':
+  'cmd-shift-alt-t': 'atom-commit-templates:Set Commit Template'
+
+'.platform-win32, .platform-linux':
+  'ctrl-shift-alt-t': 'atom-commit-templates:Set Commit Template'
