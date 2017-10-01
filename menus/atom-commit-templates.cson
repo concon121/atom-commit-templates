@@ -7,6 +7,10 @@
         {
           'label': 'Set Commit Template'
           'command': 'atom-commit-templates:Set Commit Template'
+        },
+        {
+          'label': 'Clear Commit Template'
+          'command': 'atom-commit-templates:Clear Commit Template'
         }
       ]
     ]

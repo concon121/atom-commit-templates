@@ -1,5 +1,7 @@
 '.platform-darwin':
   'cmd-shift-alt-t': 'atom-commit-templates:Set Commit Template'
+  'cmd-shift-alt-c': 'atom-commit-templates:Clear Commit Template'
 
 '.platform-win32, .platform-linux':
   'ctrl-shift-alt-t': 'atom-commit-templates:Set Commit Template'
+  'ctrl-shift-alt-c': 'atom-commit-templates:Clear Commit Template'
