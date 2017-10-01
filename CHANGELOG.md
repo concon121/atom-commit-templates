@@ -1,5 +1,12 @@
 # Change Log
 
+## [v0.3.0](https://github.com/concon121/atom-commit-templates/tree/v0.3.0) (2017-10-01)
+[Full Changelog](https://github.com/concon121/atom-commit-templates/compare/v0.2.1...v0.3.0)
+
+**Implemented enhancements:**
+
+- Unset commit template [\#7](https://github.com/concon121/atom-commit-templates/issues/7)
+
 ## [v0.2.1](https://github.com/concon121/atom-commit-templates/tree/v0.2.1) (2017-09-27)
 [Full Changelog](https://github.com/concon121/atom-commit-templates/compare/v0.2.0...v0.2.1)
 
