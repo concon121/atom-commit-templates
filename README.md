@@ -28,6 +28,17 @@ git config --global commit.template ~/.gitcommit
 #### Commit Message Automatically Populated
 ![commit-message](https://user-images.githubusercontent.com/12021575/30941982-10b29774-a3e0-11e7-89eb-e0f36498a4f7.png)
 
+## Clearing the Commit Template
+
+Removes the current commit template. 
+
+#### Keyboard Shortcuts
+
+- ```ctrl-shift-alt-c``` on Windows and Linux
+- ```cmd-shift-alt-c``` on OSX
+- ```Atom Commit Templates: Clear Commit Template``` from the command palette
+
+
 ## Goes well with
 
 - [Git Plus](https://atom.io/packages/git-plus) - Git commands without the terminal!
